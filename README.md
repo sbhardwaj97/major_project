@@ -1,2 +1,2 @@
 # major_project
-https://majorproject.anvil.app/
+https://majoriitm.anvil.app
