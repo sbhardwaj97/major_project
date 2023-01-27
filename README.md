@@ -1,2 +1,2 @@
 # major_project
-https://minorbciit.anvil.app
+https://minor3.anvil.app
